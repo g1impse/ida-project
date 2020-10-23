@@ -1,4 +1,4 @@
-# credit-tachka
+# ida-project
 
 ## Build Setup
 
